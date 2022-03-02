@@ -2,8 +2,8 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
-	"./entity"
-	"./service"
+	"github.com/Vikash-Sinha/gin_api/entity"
+	"github.com/Vikash-Sinha/gin_api/service"
 )
 
 type StudentController interface{

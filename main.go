@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/gin-gonic/gin"
+	"github.com/Vikash-Sinha/gin_api/controller"
+	"github.com/Vikash-Sinha/gin_api/service"
 
-	"/controller"
-	"/service"
+	"github.com/gin-gonic/gin"
 )
 
 var (

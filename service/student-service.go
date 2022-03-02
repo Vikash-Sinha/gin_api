@@ -1,6 +1,6 @@
 package service
 
-import "/entity"
+import "github.com/Vikash-Sinha/gin_api/entity"
 
 type StudentSevice interface {
 	Save(entity.Student) entity.Student
